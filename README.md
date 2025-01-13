@@ -5,6 +5,7 @@
 **Task 1:** Creating Lists Create a recipe for "Classic Chocolate Chip Cookies" with a header and a short paragraph description. Then, add the ingredients into an unordered list and the steps into an ordered list. 
 
 You can use the following information:
+
         Ingredients:
         - 1 cup (2 sticks) unsalted butter, softened
         - 3/4 cup granulated sugar
