@@ -1,8 +1,8 @@
 # PROJECT REQUIREMENTS
 
-**FORMATTING & LISTS WITH RECIPES**
-**Objective:** The aim of this assignment is to explore and practice using text formatting tags and creating lists in HTML, inspired by real-world examples from Recipes.
-**Task 1:** Creating Lists Create a recipe for "Classic Chocolate Chip Cookies" with a header and a short paragraph description. Then, add the ingredients into an unordered list and the steps into an ordered list. 
+**FORMATTING & LISTS WITH RECIPES**<br>
+**Objective:** The aim of this assignment is to explore and practice using text formatting tags and creating lists in HTML, inspired by real-world examples from Recipes.<br>
+**Task 1:** Creating Lists Create a recipe for "Classic Chocolate Chip Cookies" with a header and a short paragraph description. Then, add the ingredients into an unordered list and the steps into an ordered list. <br>
 
 You can use the following information:
 
