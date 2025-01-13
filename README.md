@@ -30,7 +30,7 @@ You can use the following information:
 
 *Expected Outcome: Recreate the Recipe Using copied information ensuring to use of appropriate HTML tags for headers, paragraphs, lists, and list items to structure the content correctly In your HTML document.*
 
-**HYPERLINKS & IMAGES TO RECIPE**
+**HYPERLINKS & IMAGES TO RECIPE**<br>
 **Objective:** The aim of this assignment is to practice creating hyperlinks and inserting images in HTML.
 
 **Task 1:** Creating Hyperlinks Now, add a hyperlink to an actual recipe URL for the "Classic Chocolate Chip Cookies" recipe using this Recipe Url: https://www.ghirardelli.com/recipes/classic-chocolate-chip-cookies-rec1016. 
@@ -41,7 +41,7 @@ You can use the following information:
 
 *Expected Outcome: Insert the image using the copied url, ensuring it displays correctly.*
 
-**SPECIAL CHARACTERS & COMMENTS on GitHub**
+**SPECIAL CHARACTERS & COMMENTS on GitHub**<br>
 **Objective:** The aim of this assignment is to practice using special characters and HTML comments in HTML.
 
 **Task 1:** Special Characters. Add the following paragraph to the end of the recipe page HTML code:
